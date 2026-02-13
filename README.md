@@ -16,8 +16,6 @@ Monitor de procesos en tiempo real que detecta actividades sospechosas basándos
 
 ### Requisitos
 - **Windows**: MinGW o Visual Studio, Windows SDK
-- **Linux**: g++ (4.8+), make
-- **macOS**: Clang, Xcode Command Line Tools
 
 ### Compilación
 
