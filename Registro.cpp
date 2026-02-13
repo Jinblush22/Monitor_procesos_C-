@@ -51,7 +51,7 @@ void GestorRegistro::guardarReporte(const std::string& nombre_archivo,
         }
         
         archivo.close();
-        std::cout << "✅ Reporte guardado exitosamente en: " << nombre_archivo << std::endl;
+        std::cout << "Reporte guardado exitosamente en: " << nombre_archivo << std::endl;
         
     } catch (const std::exception& e) {
         archivo.close();
@@ -76,4 +76,5 @@ std::string GestorRegistro::nivelRiesgoToString(NivelRiesgo riesgo) {
         case NivelRiesgo::CRITICO: return "CRÍTICO";
         default: return "DESCONOCIDO";
     }
+
 }
