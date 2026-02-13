@@ -1,0 +1,415 @@
+========================================
+MONITOR DE PROCESOS - REPORTE DE ANÁLISIS
+========================================
+
+Fecha y hora: 2026-02-12 21:12:36
+Total de procesos detectados: 342
+
+--- LISTA COMPLETA DE PROCESOS ---
+PID       NOMBRE                        MEMORIA (MB)   
+-------------------------------------------------------
+0         [System Process]              0.00           
+4         System                        0.00           
+236       Secure System                 0.00           
+280       Registry                      0.00           
+808       smss.exe                      0.00           
+996       csrss.exe                     0.00           
+1072      wininit.exe                   0.00           
+1156      services.exe                  0.00           
+1196      LsaIso.exe                    0.00           
+1216      lsass.exe                     0.00           
+1384      svchost.exe                   0.00           
+1416      fontdrvhost.exe               0.00           
+1512      svchost.exe                   0.00           
+1568      svchost.exe                   0.00           
+1736      svchost.exe                   0.00           
+1836      svchost.exe                   0.00           
+1844      svchost.exe                   0.00           
+1852      svchost.exe                   0.00           
+1984      svchost.exe                   0.00           
+1992      svchost.exe                   0.00           
+2000      svchost.exe                   0.00           
+1276      svchost.exe                   0.00           
+1536      svchost.exe                   0.00           
+1624      svchost.exe                   0.00           
+2088      svchost.exe                   0.00           
+2188      svchost.exe                   0.00           
+2272      svchost.exe                   0.00           
+2380      svchost.exe                   0.00           
+2468      NVDisplay.Container.exe       0.00           
+2536      dasHost.exe                   0.00           
+2544      svchost.exe                   0.00           
+2620      svchost.exe                   0.00           
+2780      svchost.exe                   0.00           
+2788      svchost.exe                   0.00           
+2804      svchost.exe                   0.00           
+2896      svchost.exe                   0.00           
+3016      Memory Compression            0.00           
+2228      svchost.exe                   0.00           
+2976      svchost.exe                   0.00           
+3096      svchost.exe                   0.00           
+3108      svchost.exe                   0.00           
+3244      svchost.exe                   0.00           
+3340      svchost.exe                   0.00           
+3392      svchost.exe                   0.00           
+3556      svchost.exe                   0.00           
+3564      svchost.exe                   0.00           
+3612      svchost.exe                   0.00           
+3728      svchost.exe                   0.00           
+3760      svchost.exe                   0.00           
+3860      spoolsv.exe                   0.00           
+3896      svchost.exe                   0.00           
+4032      svchost.exe                   0.00           
+4272      svchost.exe                   0.00           
+4288      svchost.exe                   0.00           
+4308      svchost.exe                   0.00           
+4328      svchost.exe                   0.00           
+4336      EasyTuneEngineService.exe     0.00           
+4344      svchost.exe                   0.00           
+4352      svchost.exe                   0.00           
+4368      HapticService.exe             0.00           
+4376      AdjustService.exe             0.00           
+4384      SchedulerService.exe          0.00           
+4392      AgentService.exe              0.00           
+4400      nessus-service.exe            0.00           
+4408      logi_lamparray_service.exe    0.00           
+4416      nvcontainer.exe               0.00           
+4424      svchost.exe                   0.00           
+4448      GigabyteUpdateService.exe     0.00           
+4456      RzSDKService.exe              0.00           
+4464      sqlwriter.exe                 0.00           
+4476      MpDefenderCoreService.exe     0.00           
+4496      vmnetdhcp.exe                 0.00           
+4504      GameManagerService3.exe       0.00           
+4520      RzSDKServer.exe               0.00           
+4532      svchost.exe                   0.00           
+4544      svchost.exe                   0.00           
+4552      lghub_updater.exe             0.00           
+4560      RzDiagnosticService.exe       0.00           
+4572      MsMpEng.exe                   0.00           
+4580      OfficeClickToRun.exe          0.00           
+4600      svchost.exe                   0.00           
+4612      vmnat.exe                     0.00           
+5220      vmware-authd.exe              0.00           
+5236      vmware-usbarbitrator64.exe    0.00           
+5364      svchost.exe                   0.00           
+5596      conhost.exe                   0.00           
+5820      svchost.exe                   0.00           
+5836      svchost.exe                   0.00           
+6052      RzAppManager                  0.00           
+5912      nessusd.exe                   0.00           
+5624      RzBTLEManager                 0.00           
+5864      conhost.exe                   0.00           
+5996      RzChromaConnectManager        0.00           
+6156      conhost.exe                   0.00           
+6164      RzChromaConnectServer         0.00           
+6180      conhost.exe                   0.00           
+6188      RzDeviceManager               0.00           
+6212      conhost.exe                   0.00           
+6224      RzDeviceManagerEx             0.00           
+6280      RzIoTDeviceManager            0.00           
+6288      conhost.exe                   0.00           
+6336      RzSmartlightingDeviceManager  0.00           
+6388      conhost.exe                   0.00           
+6396      conhost.exe                   0.00           
+6436      RzWDLDeviceManager            0.00           
+6792      conhost.exe                   0.00           
+6804      conhost.exe                   0.00           
+8964      svchost.exe                   0.00           
+9096      svchost.exe                   0.00           
+9048      AggregatorHost.exe            0.00           
+9196      svchost.exe                   0.00           
+9880      NisSrv.exe                    0.00           
+6344      svchost.exe                   0.00           
+6040      NgcIso.exe                    0.00           
+9556      svchost.exe                   0.00           
+8696      svchost.exe                   0.00           
+8300      svchost.exe                   0.00           
+4820      svchost.exe                   0.00           
+6888      svchost.exe                   0.00           
+10680     GCloud.exe                    0.00           
+9316      svchost.exe                   0.00           
+10592     sqlservr.exe                  0.00           
+7020      RzChromaStreamServer.exe      0.00           
+11080     sqlceip.exe                   0.00           
+10828     svchost.exe                   0.00           
+9076      svchost.exe                   0.00           
+10208     svchost.exe                   0.00           
+7192      SearchIndexer.exe             0.00           
+3264      svchost.exe                   0.00           
+10516     SecurityHealthService.exe     0.00           
+9136      WmiPrvSE.exe                  0.00           
+11708     svchost.exe                   0.00           
+9020      svchost.exe                   0.00           
+17816     svchost.exe                   0.00           
+18124     logi_crashpad_handler.exe     0.00           
+19192     svchost.exe                   0.00           
+20772     razer_elevation_service.exe   0.00           
+23676     svchost.exe                   0.00           
+26416     svchost.exe                   0.00           
+26192     svchost.exe                   0.00           
+25120     svchost.exe                   0.00           
+7224      csrss.exe                     0.00           
+11040     winlogon.exe                  0.00           
+20156     fontdrvhost.exe               0.00           
+12456     dwm.exe                       0.00           
+8552      NVDisplay.Container.exe       0.00           
+26176     nvcontainer.exe               0.00           
+24364     svchost.exe                   0.00           
+2860      svchost.exe                   0.00           
+26276     nvcontainer.exe               54.86          
+12004     sihost.exe                    28.18          
+13696     svchost.exe                   16.44          
+19788     svchost.exe                   3.50           
+12784     svchost.exe                   21.46          
+17596     taskhostw.exe                 17.41          
+2460      explorer.exe                  275.57         
+1192      ShellHost.exe                 18.79          
+23368     CrossDeviceResume.exe         18.10          
+15576     svchost.exe                   20.06          
+2980      ApCent.exe                    0.00           
+3424      SearchHost.exe                82.48          
+9312      StartMenuExperienceHost.exe   79.93          
+11976     Widgets.exe                   37.29          
+15640     RuntimeBroker.exe             41.54          
+21184     svchost.exe                   28.54          
+15768     WidgetService.exe             8.19           
+7040      ShellExperienceHost.exe       21.56          
+16212     msedgewebview2.exe            72.17          
+13860     msedgewebview2.exe            3.84           
+17836     msedgewebview2.exe            27.88          
+26252     msedgewebview2.exe            30.27          
+11676     msedgewebview2.exe            10.30          
+15920     ctfmon.exe                    0.00           
+17628     msedgewebview2.exe            57.92          
+5168      SecurityHealthSystray.exe     4.75           
+23100     OneDrive.exe                  55.66          
+12476     lghub_system_tray.exe         27.34          
+24696     lghub_agent.exe               35.17          
+10472     TextInputHost.exe             42.29          
+6452      unsecapp.exe                  5.31           
+8056      logi_crashpad_handler.exe     3.02           
+21548     RazerAppEngine.exe            116.67         
+25892     Twinkle Tray.exe              49.00          
+15120     RazerAppEngine.exe            37.84          
+10876     RazerAppEngine.exe            31.70          
+8368      Twinkle Tray.exe              26.59          
+12348     Twinkle Tray.exe              16.02          
+25844     Twinkle Tray.exe              27.71          
+10416     RazerAppEngine.exe            52.34          
+15628     RzEngineMon.exe               3.34           
+25476     Twinkle Tray.exe              27.90          
+19748     RuntimeBroker.exe             4.98           
+14536     RazerAppEngine.exe            56.07          
+25660     RazerAppEngine.exe            27.43          
+8440      RazerAppEngine.exe            58.91          
+8428      RazerAppEngine.exe            57.63          
+4700      RazerAppEngine.exe            44.80          
+25828     razerwdl.exe                  7.77           
+23816     vmware-tray.exe               5.36           
+18696     Monitor.exe                   5.22           
+6892      ms-teams.exe                  50.13          
+17528     RuntimeBroker.exe             3.80           
+12112     msedgewebview2.exe            58.98          
+14148     msedgewebview2.exe            3.87           
+23956     msedgewebview2.exe            39.09          
+16236     msedgewebview2.exe            8.12           
+14520     msedgewebview2.exe            5.96           
+10856     msedgewebview2.exe            157.94         
+26112     AppActions.exe                14.79          
+24612     ms-teams.exe                  13.81          
+2812      msedgewebview2.exe            3.27           
+16388     chrome.exe                    324.95         
+17060     chrome.exe                    3.96           
+22032     chrome.exe                    256.43         
+16392     chrome.exe                    56.65          
+19580     chrome.exe                    14.95          
+21296     chrome.exe                    145.63         
+12216     chrome.exe                    33.28          
+17064     chrome.exe                    58.22          
+2252      svchost.exe                   13.36          
+19636     RuntimeBroker.exe             9.48           
+11032     ApplicationFrameHost.exe      23.08          
+14852     backgroundTaskHost.exe        33.10          
+6024      RuntimeBroker.exe             20.21          
+23832     svchost.exe                   4.33           
+17080     Code.exe                      130.91         
+14956     UserOOBEBroker.exe            6.12           
+23640     Code.exe                      9.86           
+444       Code.exe                      72.51          
+13800     Code.exe                      23.48          
+21348     Code.exe                      336.25         
+9092      Code.exe                      43.93          
+420       CodeSetup-stable-591199df409fbf59b4b52d5ad4ee0470152a9b31.exe3.30           
+18056     CodeSetup-stable-591199df409fbf59b4b52d5ad4ee0470152a9b31.tmp8.39           
+4980      dllhost.exe                   4.31           
+7968      chrome.exe                    48.16          
+17980     chrome.exe                    480.42         
+9568      chrome.exe                    134.82         
+17144     chrome.exe                    226.55         
+22352     chrome.exe                    84.88          
+4984      chrome.exe                    14.02          
+25744     chrome.exe                    15.85          
+5064      svchost.exe                   9.34           
+3952      chrome.exe                    45.52          
+4432      chrome.exe                    468.25         
+17964     chrome.exe                    450.41         
+14276     chrome.exe                    249.03         
+25644     PhoneExperienceHost.exe       67.13          
+27596     opera.exe                     306.26         
+12008     opera_crashreporter.exe       4.88           
+21816     opera.exe                     100.76         
+18588     opera.exe                     39.98          
+8176      opera.exe                     12.38          
+26916     opera.exe                     13.31          
+19864     opera.exe                     76.44          
+21468     opera.exe                     109.63         
+17696     opera.exe                     168.06         
+7376      opera.exe                     10.80          
+14560     opera.exe                     10.88          
+23356     opera.exe                     86.21          
+10436     opera.exe                     15.31          
+26788     opera.exe                     81.54          
+1796      opera.exe                     121.17         
+27820     opera.exe                     106.32         
+27892     opera.exe                     95.02          
+28276     opera.exe                     206.41         
+27976     opera.exe                     78.99          
+28260     opera.exe                     83.16          
+28312     opera.exe                     96.52          
+28584     opera.exe                     18.28          
+19712     chrome.exe                    296.95         
+15204     Video.UI.exe                  1.30           
+25372     RuntimeBroker.exe             4.46           
+24048     OneDrive.Sync.Service.exe     14.00          
+26104     svchost.exe                   4.89           
+27360     FileCoAuth.exe                17.42          
+23036     dllhost.exe                   14.52          
+29576     dllhost.exe                   19.95          
+19920     dllhost.exe                   13.24          
+21312     dllhost.exe                   6.85           
+18664     SystemSettings.exe            1.73           
+25872     Code.exe                      45.43          
+8152      Code.exe                      159.83         
+13292     cpptools.exe                  44.09          
+24288     conhost.exe                   3.43           
+18260     cpptools.exe                  1.85           
+23392     cpptools-srv.exe              28.64          
+10400     conhost.exe                   3.05           
+29836     cpptools-srv.exe              55.96          
+26536     conhost.exe                   3.00           
+13120     cpptools-srv.exe              38.73          
+8908      conhost.exe                   3.46           
+17368     cpptools-srv.exe              82.00          
+24220     conhost.exe                   3.41           
+4316      cpptools-srv.exe              66.64          
+1424      conhost.exe                   2.97           
+25360     cpptools-srv.exe              81.66          
+17720     conhost.exe                   3.29           
+2360      cpptools-srv.exe              82.24          
+27920     conhost.exe                   3.24           
+21972     cmd.exe                       4.44           
+19928     conhost.exe                   4.91           
+30140     OpenConsole.exe               9.66           
+9436      WindowsTerminal.exe           80.86          
+24452     steam.exe                     87.59          
+30136     steamwebhelper.exe            256.29         
+22152     steamservice.exe              0.00           
+22816     steamwebhelper.exe            6.18           
+28120     steamwebhelper.exe            62.36          
+3940      steamwebhelper.exe            23.67          
+23856     steamwebhelper.exe            9.70           
+12712     steamwebhelper.exe            225.39         
+18476     steamwebhelper.exe            16.10          
+19056     svchost.exe                   0.00           
+27160     svchost.exe                   0.00           
+26120     steamwebhelper.exe            41.93          
+5156      svchost.exe                   0.00           
+30844     XboxPcAppFT.exe               27.05          
+31684     taskhostw.exe                 0.00           
+10884     chrome.exe                    158.55         
+24276     Notepad.exe                   167.81         
+24448     OpenWith.exe                  91.85          
+3440      Notepad.exe                   14.77          
+5488      chrome.exe                    132.68         
+22984     msedgewebview2.exe            29.91          
+14236     msedgewebview2.exe            82.23          
+13388     chrome.exe                    54.47          
+31280     chrome.exe                    74.01          
+18816     chrome.exe                    119.05         
+31840     audiodg.exe                   0.00           
+31320     opera.exe                     173.14         
+31048     chrome.exe                    476.26         
+31908     chrome.exe                    53.29          
+30856     opera.exe                     36.44          
+29044     svchost.exe                   0.00           
+31600     svchost.exe                   0.00           
+31916     chrome.exe                    60.27          
+31976     chrome.exe                    70.44          
+21480     chrome.exe                    31.00          
+27332     monitor.exe                   5.22           
+14820     SearchProtocolHost.exe        0.00           
+3684      opera.exe                     51.59          
+
+--- PROCESOS SOSPECHOSOS ---
+
+PID: 808
+Nombre: smss.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
+PID: 5236
+Nombre: vmware-usbarbitrator64.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
+PID: 12456
+Nombre: dwm.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
+PID: 17080
+Nombre: Code.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
+PID: 23640
+Nombre: Code.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
+PID: 444
+Nombre: Code.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
+PID: 13800
+Nombre: Code.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
+PID: 21348
+Nombre: Code.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
+PID: 9092
+Nombre: Code.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
+PID: 25872
+Nombre: Code.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
+PID: 8152
+Nombre: Code.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
+PID: 21972
+Nombre: cmd.exe
+Nivel de riesgo: ALTO
+Razón: Nombre de proceso sospechoso
+------------------------------
